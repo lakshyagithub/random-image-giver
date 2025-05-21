@@ -1,0 +1,19 @@
+body {
+  background-color: wheat;
+}
+
+#randomImage {
+  border-radius: 5%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.grid_center {
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.center_text {
+  text-align: center;
+}
